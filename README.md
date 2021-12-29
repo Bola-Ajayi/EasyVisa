@@ -13,3 +13,35 @@ Facilitate the process of visa approvals.
 Recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the drivers that significantly influence the case status.
 Data Description
 The data contains the different attributes of employee and the employer. The detailed data dictionary is given below.
+
+Recommendations
+The profile of the applicants for whom the visa status can be approved:
+
+Primary information to look at:
+
+Education level - At least has a Bachelor's degree - Master's and doctorate are preferred.
+Job Experience - Should have some job experience.
+Prevailing wage - The median prevailing wage of the employees for whom the visa got certified is around 72k.
+Secondary information to look at:
+
+Unit of Wage - Applicants having a yearly unit of wage.
+Continent - Ideally the nationality and ethnicity of an applicant shouldn't matter to work in a country but previously it has been observed that applicants from Europe, Africa, and Asia have higher chances of visa certification.
+Region of employment - Our analysis suggests that the applications to work in the Mid-West region have more chances of visa approval. The approvals can also be made based on requirement of talent, from our analysis we see that:
+The requirement for the applicants who have passed high school is most in the South region, followed by Northeast region.
+The requirement for Bachelor's is mostly in South region, followed by West region.
+The requirement for Master's is most in Northeast region, followed by South region.
+The requirement for Doctorate's is mostly in West region, followed by Northeast region.
+The profile of the applicants for whom the visa status can be denied:
+
+Primary information to look at:
+
+Education level - Doesn't have any degree and has completed high school.
+Job Experience - Doesn't have any job experience.
+Prevailing wage - The median prevailing wage of the employees for whom the visa got certified is around 65k.
+Secondary information to look at:
+
+Unit of Wage - Applicants having an hourly unit of wage.
+Continent - Ideally the nationality and ethnicity of an applicant shouldn't matter to work in a country but previously it has been observed that applicants from South America, North America, and Oceania have higher chances of visa applications getting denied.
+Additional information of employers and employees can be collected to gain better insights. Information such as:
+Employers: Information about the wage they are offering to the applicant, Sector in which company operates in, etc
+Employee's: Specialization in their educational degree, Number of years of experience, etc
