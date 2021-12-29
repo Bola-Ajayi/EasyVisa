@@ -15,6 +15,7 @@ Data Description
 The data contains the different attributes of employee and the employer. The detailed data dictionary is given below.
 
 Recommendations
+
 The profile of the applicants for whom the visa status can be approved:
 
 Primary information to look at:
